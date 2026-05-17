@@ -52,7 +52,7 @@ I'm an aspiring Full-Stack Developer who loves building products that solve real
 
 - 🎓 **B.Tech in AI** (2024–2028) · Newton School of Technology, Rishihood University
 - 💻 **200+ LeetCode** problems solved · **600+ DSA** questions completed
-- 🏆 **Pupil on Codeforces** (1246) · **3★ on CodeChef** (1665) · Global Rank **#211** on CodeChef
+- 🏆 **Pupil on Codeforces** (1246) · **3★ on CodeChef** (1665) · Global Rank **#211** on CodeChef contest
 - 🌍 **Hacktoberfest 2024** participant — contributed to open-source projects globally
 - 🏏 National-level **Softball** player
 
@@ -140,7 +140,7 @@ I'm an aspiring Full-Stack Developer who loves building products that solve real
 | Platform | Handle | Rating / Rank |
 |---|---|---|
 | 🟡 LeetCode | [parthrajsingh](https://leetcode.com/u/parthrajsingh/) | 200+ problems solved |
-| 🟤 CodeChef | [parthraj_12](https://www.codechef.com/users/parthraj_12) | ⭐⭐⭐ 3-Star · 1665 · Global Rank #211 |
+| 🟤 CodeChef | [parthraj_12](https://www.codechef.com/users/parthraj_12) | ⭐⭐⭐ 3-Star · 1665 |
 | 🔵 Codeforces | [parthrajsinghbhati](https://codeforces.com/profile/parthrajsinghbhati) | Pupil · 1246 |
 
 </div>
