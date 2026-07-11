@@ -111,14 +111,6 @@ I'm an aspiring Full-Stack Developer who loves building products that solve real
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=parthrajsinghbhati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthrajsinghbhati&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=parthrajsinghbhati&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FFA116&currStreakLabel=58A6FF" />
 
 </div>
